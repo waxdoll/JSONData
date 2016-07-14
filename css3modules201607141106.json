@@ -1,0 +1,722 @@
+﻿[
+    {
+        "t": "CSS Color Module Level 3",
+        "c": "stds",
+        "cv": 4,
+        "l": "http://www.w3.org/TR/2011/REC-css3-color-20110607",
+        "dc": "该规范描述了面向前景色和组透明的颜色值和属性，包含来自 CSS 2 和新增值。",
+        "d": "2011-06-07",
+        "ll": 3,
+        "ch": "颜色"
+    },
+    {
+        "t": "Selectors Level 3",
+        "c": "stds",
+        "cv": 4,
+        "l": "http://www.w3.org/TR/2011/REC-css3-selectors-20110929/",
+        "dc": "Selector可以描述如何在树结构中匹配元素的模式，可以用于从XML等文档中选择内容。Selector针对HTML和XML进行了设计优化，以便在性能要求高的场景下获得较好效果。Selector是CSS的核心组件。",
+        "d": "2011-09-29",
+        "ll": 3,
+        "ch": "选择器"
+    },
+    {
+        "t": "CSS Speech Module",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2012/CR-css3-speech-20120320/",
+        "dc": "CSS 定义了语音属性用于为 XML 到语音的渲染提供控制。该草案描述了由 CSS 3 提出的文本到语音的属性。",
+        "d": "2012-03-20",
+        "ll": 0,
+        "ch": "语音"
+    },
+    {
+        "t": "CSS Image Values and Replaced Content Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2012/CR-css3-images-20120417/",
+        "dc": "该草案定义了如何引用 CSS 内的图像和其它外部对象，包括不同格式的后备（fallback）图片、颜色渐变矢量图像的特殊 URL，和以不同方式去设置图像或其它对象的大小。",
+        "d": "2012-04-17",
+        "ll": 3,
+        "ch": "图像值和替换内容"
+    },
+    {
+        "t": "Media Queries",
+        "c": "stds",
+        "cv": 4,
+        "l": "http://www.w3.org/TR/2012/REC-css3-mediaqueries-20120619/",
+        "dc": "HTML 4 和 CSS 2 目前支持针对不同的媒体类型定制依赖媒体的样式表。媒体查询通过允许更精确的样式表标记扩展了媒体类型的功能。",
+        "d": "2012-06-19",
+        "ll": 0,
+        "ch": "媒体查询"
+    },
+    {
+        "t": "CSS Image Values and Replaced Content Module Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2012/WD-css4-images-20120911/",
+        "dc": "见 CSS Image Values and Replaced Content Module Level 3",
+        "d": "2012-09-11",
+        "ll": 4,
+        "ch": "图像值和替换内容"
+    },
+    {
+        "t": "CSS Animations",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2013/WD-css3-animations-20130219/",
+        "dc": "该规范通过使用指定关键帧，提供了一种CSS属性值在一段时间内的动画方式。",
+        "d": "2013-02-19",
+        "ll": 0,
+        "ch": "动画"
+    },
+    {
+        "t": "Selectors API Level 1",
+        "c": "stds",
+        "cv": 4,
+        "l": "http://www.w3.org/TR/2013/REC-selectors-api-20130221/",
+        "dc": "Selector用于在一个树结构中匹配一个特定模式，被广泛用于CSS中。Selectors API定义了一个标准的方式通过一组selectors的匹配从DOM中获取Element节点，简化了获取制定页面元素的过程。",
+        "d": "2013-02-21",
+        "ll": 1,
+        "ch": "选择器应用程序接口"
+    },
+    {
+        "t": "CSS Paged Media Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2013/WD-css3-page-20130314/",
+        "dc": "该规范描述了如何控制分页",
+        "d": "2013-03-14",
+        "ll": 3,
+        "ch": "分页媒体"
+    },
+    {
+        "t": "CSS Conditional Rules Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2013/CR-css3-conditional-20130404/",
+        "dc": "该规范描述了如何在不同条件下来定义CSS样式。",
+        "d": "2013-04-04",
+        "ll": 3,
+        "ch": "条件处理规则"
+    },
+    {
+        "t": "Selectors Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2013/WD-selectors4-20130502/",
+        "dc": "Selector可以描述如何在树结构中匹配元素的模式，可以用于从XML等文档中选择内容。Selector针对HTML和XML进行了设计优化，以便在性能要求高的场景下获得较好效果。Selector是CSS的核心组件。",
+        "d": "2013-05-02",
+        "ll": 4,
+        "ch": "选择器"
+    },
+    {
+        "t": "CSS Text Decoration Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2013/CR-css-text-decor-3-20130801/",
+        "dc": "该模块包括了与文本修饰相关的CSS特性，如下划线、文本阴影、加黑及强调符号（emphasis marks）。",
+        "d": "2013-08-01",
+        "ll": 3,
+        "ch": "文本修饰"
+    },
+    {
+        "t": "CSS Fonts Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2013/CR-css-fonts-3-20131003/",
+        "dc": "该CSS3模块描述了字体属性如何指定及字体资源如何动态加载。该文档的内容是之前CSS3 Fonts和CSS3 Web Fonts两个模块的整合。关于字体加载事件（Font load event）相关的描述则转入CSS Font Load Event模块。",
+        "d": "2013-10-03",
+        "ll": 3,
+        "ch": "字体"
+    },
+    {
+        "t": "CSS Text Module Level 3",
+        "c": "lcwd",
+        "cv": 2,
+        "l": "http://www.w3.org/TR/2013/WD-css-text-3-20131010/",
+        "dc": "该CSS模块定义了一组控制文本显示的属性，如大小写转换（case transformation）、字符间空格调整（white space collapsing）、文本自动换行（text wrapping）、换行规则和短字（句）规则、文本对齐、字间距（spacing）、段前空格（indentation）等。",
+        "d": "2013-10-10",
+        "ll": 3,
+        "ch": "文本"
+    },
+    {
+        "t": "CSS Style Attributes",
+        "c": "stds",
+        "cv": 4,
+        "l": "http://www.w3.org/TR/2013/REC-css-style-attr-20131107/",
+        "dc": "HTML、SVG等标记语言可以为大部分元素提供style属性，用于以内嵌（in-line）的方式定义适用于这些元素的样式说明。该文档定义了用于这些style属性的CSS片段的语法及其解释规则。",
+        "d": "2013-11-07",
+        "ll": 0,
+        "ch": "HTML style 全局属性"
+    },
+    {
+        "t": "CSS Transitions",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2013/WD-css3-transitions-20131119/",
+        "dc": "该规范定义了一种CSS属性值在一段时间内从一个值逐渐改变到另一个值的的渐变方式。",
+        "d": "2013-11-19",
+        "ll": 0,
+        "ch": "过渡效果"
+    },
+    {
+        "t": "CSS Transforms Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2013/WD-css-transforms-1-20131126/",
+        "dc": "该规范允许对经过CSS设定样式的元素，在二维或三维空间中进行变换。该文档定义了一组CSS属性，指导元素在绘制时通过二维或三维转换呈现某些特定效果（如立体效果），该文档是CSS 2D变换（2D transforms）、CSS 3D变换（3D transforms） 和SVG变换的合并。",
+        "d": "2013-11-26",
+        "ll": 1,
+        "ch": "变换"
+    },
+    {
+        "t": "CSS Syntax Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2014/CR-css-syntax-3-20140220/",
+        "dc": "该模块描述了 CSS 样式表的基本结构，语法细节以及 CSS 样式表的解析规则等。",
+        "d": "2014-02-20",
+        "ll": 3,
+        "ch": "语法"
+    },
+    {
+        "t": "CSS Lists and Counters Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-css-lists-3-20140320/",
+        "dc": "该草案包含了CSS Level 3中与列表样式相关的技术特性，是对CSS Level 2[CSS21]的扩展。其中，主要的扩展包括pseudo-element，以及允许用户自定义列表及计数器（列表编号）的样式。",
+        "d": "2014-03-20",
+        "ll": 3,
+        "ch": "列表和编号"
+    },
+    {
+        "t": "CSS Namespaces Module Level 3",
+        "c": "stds",
+        "cv": 4,
+        "l": "http://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/",
+        "dc": "该模块定义了在 CSS 中使用命名空间的语法。",
+        "d": "2014-03-20",
+        "ll": 3,
+        "ch": "命名空间"
+    },
+    {
+        "t": "CSS Shapes Module Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2014/CR-css-shapes-1-20140320/",
+        "dc": "CSS Shapes用于定义几何形状，以便环绕文字绕开这些区域。",
+        "d": "2014-03-20",
+        "ll": 1,
+        "ch": "几何形状"
+    },
+    {
+        "t": "CSS Scoping Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-css-scoping-1-20140403/",
+        "dc": "该规范定义了 CSS 中的多种作用域和封装机制。",
+        "d": "2014-04-03",
+        "ll": 1,
+        "ch": "作用域"
+    },
+    {
+        "t": "CSS Generated Content for Paged Media Module",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-css-gcpm-3-20140513/",
+        "dc": "该模块描述了印刷出版中常用的特性，比如将标题印在偶数或奇数页上。",
+        "d": "2014-05-13",
+        "ll": 0,
+        "ch": "分页媒体生成内容"
+    },
+    {
+        "t": "CSS Font Loading Module Level 3",
+        "c": "lcwd",
+        "cv": 2,
+        "l": "http://www.w3.org/TR/2014/WD-css-font-loading-3-20140522/",
+        "dc": "该模块描述了动态加载字体资源时的时间和接口。",
+        "d": "2014-05-22",
+        "ll": 3,
+        "ch": "字体加载"
+    },
+    {
+        "t": "Non-element Selectors Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-selectors-nonelement-1-20140603/",
+        "dc": "非元素选择器扩展了 Selectors Level 4，允许选择文档中的非元素节点。",
+        "d": "2014-06-03",
+        "ll": 1,
+        "ch": "非元素选择器"
+    },
+    {
+        "t": "CSS Ruby Layout Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-css-ruby-1-20140805/",
+        "dc": "旁注（Ruby）是一种在文本内的注释方式，通常出现在正文文字的旁边（两侧或上方）。这类旁注显示方式在东亚语言文字的文档中比较常见，通常用于对部分文本内容进行标音，或提供简短注释或转义。 该CSS模块描述了利用CSS显示旁注时的渲染模型及格式控制。",
+        "d": "2014-08-05",
+        "ll": 1,
+        "ch": "旁注布局"
+    },
+    {
+        "t": "CSS Masking Module Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2014/CR-css-masking-1-20140826/",
+        "dc": "CSS遮盖提供了两种方式来部分或全部隐藏一个可视区域：遮盖（Masking）和裁剪（Clipping）。Masking提供了一种方式，允许使用另一个图形元素或图片作为 luminance或Alpha遮罩。通常基于CSS或SVG渲染一个元素的过程大致如下：元素及其子元素将被绘制到一个缓冲区，并将缓冲区与其父元素的缓冲区混合。Luminance和Alpha遮罩会在混合之前影响该元素缓冲区的透明性。裁剪（Clipping）通过定义可视元素的可视区域实现部分可视区域的隐藏。遮盖的区域可以用SVG图形元素或其他基本形状进行描述。任何在指定区域外的部分将不被渲染。",
+        "d": "2014-08-26",
+        "ll": 1,
+        "ch": "遮罩"
+    },
+    {
+        "t": "CSS Backgrounds and Borders Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2014/CR-css3-background-20140909/",
+        "dc": "2014年9月9日，W3C的CSS工作组发布了CSS背景和边框模块（CSS Background and Borders Module Level 3）的候选推荐标准（Candidate Recommendation），向公众征集参考实现。该草案给出了CSS Level 3中和边框及背景相关的技术特性，和Level 2相比，重点扩展了图片边框（borders consisting of images）、多背景框（boxes with multiple backgrounds）、圆角边框及阴影（boxes with rounded corners and boxes with shadows）等。该标准将用于替换CSS背景（CSS3 Background）及CSS边框（CSS3 Border）等两份较早前的标准。",
+        "d": "2014-09-09",
+        "ll": 3,
+        "ch": "背景和边框"
+    },
+    {
+        "t": "CSS Line Grid Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-css-line-grid-1-20140916/",
+        "dc": "2014年9月16日，W3C的CSS工作组发布了CSS线网格模块（CSS Line Grid Module Level 1）的标准工作草案。该模块提供一种机制，通过line-grid属性定义不可见的网格（grid），并通过line-snap、box-snap两个属性将文档中的线（如行的基线）、框（文本或图片）与不可见的网格对齐，从而在竖排版、多列排版、东亚文字的图片环绕等应用场景中获得更好的呈现效果。",
+        "d": "2014-09-16",
+        "ll": 1,
+        "ch": "线网格"
+    },
+    {
+        "t": "CSS Regions Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-css-regions-1-20141009/",
+        "dc": "2014年10月9日，W3C的CSS工作组发布了CSS区域模块（CSS Region Module Level 1）的标准工作草案。该标准允许来自一个或多个元素的内容流填充到一个或多个盒（Box）区域，这些区域被称为CSS Region，并按照CSS3-BREAK的要求进行断行分块。该模块也定义了CSSOM暴露一个fragmentation的输入和输出。W3C在2014年2月曾发布该标准的工作草案。",
+        "d": "2014-10-09",
+        "ll": 1,
+        "ch": "区域"
+    },
+    {
+        "t": "Geometry Interfaces Module Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2014/CR-geometry-1-20141125/",
+        "dc": "该规范提供了一组基本的几何接口，用来表示点、矩形等基本几何元素，以及用于几何变换的变换矩阵（transformation matrix），这些接口可以被其他规范或CSS模块所使用。",
+        "d": "2014-11-25",
+        "ll": 1,
+        "ch": "几何接口"
+    },
+    {
+        "t": "Filter Effects Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2014/WD-filter-effects-1-20141125/",
+        "dc": "2014年11月25日，W3C的级联样式单（CSS）工作组与可扩展矢量图（SVG）工作组联合发布了滤镜效果模块（Filter Effects Module Level 1）的标准工作草案。滤镜效果是在文档显示时对元素进行渲染的处理方式。通常，通过CSS或SVG渲染一个元素的过程如下：元素首先被绘制到一个图像绘制缓冲区中，然后将缓冲区的图像合并到父节点中。滤镜效果可以在缓冲区图像被合并前对图像内容进行处理（如锐化、改变颜色的饱和度等）。尽管滤镜效果最初设计用于SVG图像的处理，但它也可适用于其他的表现环境（如CSS等）。滤镜效果由filter属性中的样式指令触发。该规范允许通过HTML或SVG中使用CSS指定内容的样式来触发滤镜效果，定义了CSS的属性、值及其对应的处理过程。",
+        "d": "2014-11-25",
+        "ll": 1,
+        "ch": "滤镜效果"
+    },
+    {
+        "t": "Compositing and Blending Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-compositing-1-20150113/",
+        "dc": "这里的拼接是指如何将不同元素所对应的显示区域（shapes）拼接成一个单一的图像。有多种可能的方式实现这种内容拼接。之前版本的可扩展矢量图（SVG）采用简单的Alpha Compositing方法。在这个模型中，每个元素被渲染到各自的缓冲区中，然后使用Porter-Duff模型中的Source-Over混合方式合成为一幅图像。该标准草案将扩展简单Appha Compositing模型，并支持更多的Porter Duff混合方式，高级的混合模型（blending modes）也定义了当不同显示区域重叠时如何控制颜色的混合。",
+        "d": "2015-01-13",
+        "ll": 1,
+        "ch": "拼接与混合"
+    },
+    {
+        "t": "CSS Exclusions Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-css3-exclusions-20150115/",
+        "dc": "该模块定义了一个任意区域，内容可以绕着这个定义的区域流式布局。CSS Exclusions可以在任何CSS block-level元素基础上定义，它扩展了之前内容环绕的标记。",
+        "d": "2015-01-15",
+        "ll": 1,
+        "ch": "排除"
+    },
+    {
+        "t": "Motion Path Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-motion-1-20150409/",
+        "dc": "2015年4月9日，W3C的CSS工作组和SVG工作组联合发布了运动路径模块（Motion Path Module Level 1）的首份标准工作草案。该规范允许开发者为一个特定对象（如特定元素、盒对象/box或容器/container）指定一个运动路径，允许该对象在一段指定的时间内沿着这个指定的运动路径移动。",
+        "d": "2015-04-09",
+        "ll": 1,
+        "ch": "运动路径"
+    },
+    {
+        "t": "CSS Values and Units Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-css-values-3-20150611/",
+        "dc": "该CSS3模块描述了CSS属性所能接受的通用值与单位，以及在进行CSS属性定义时描述这些信息的基本语法。",
+        "d": "2015-06-11",
+        "ll": 3,
+        "ch": "值与单位"
+    },
+    {
+        "t": "CSS Counter Styles Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-css-counter-styles-3-20150611/",
+        "dc": "该模块介绍了计数器样式的规则，允许开发者使用CSS列表标记（CSS list-marker）和生成内容计数器CSS3LIST，来定义自己的用户编号样式（counter styles）。它还预定义了一组现存于CSS2与CSS1中的通用的计数器样式。",
+        "d": "2015-06-11",
+        "ll": 3,
+        "ch": "计数器样式"
+    },
+    {
+        "t": "Web Animations",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-web-animations-1-20150707/",
+        "dc": "2015年7月7日，W3C的级联样式单（CSS）工作组（Cascading Style Sheets Working Group）、可扩展矢量图（SVG）工作组（Scalable Vector Graphics Working Group）联合发布Web动画（Web Animations）标准工作草案。该规范定义了一个支持Web页面内容同步改变及动画计时的模型和方法。该规范还定义了一个允许Web应用与该模型之间交互的应用编程接口，预计后续其他规范将进一步定义更多的动画特性。",
+        "d": "2015-07-07",
+        "ll": 0,
+        "ch": "Web 动画"
+    },
+    {
+        "t": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-css-ui-3-20150707/",
+        "dc": "2015年7月7日，W3C的CSS工作组（Cascading Style Sheets Working Group）就发布CSS基本用户界面模块（CSS Basic User Interface Module Level 3 ,CSS3 UI)候选推荐标准向公众征集参考实现。该规范描述了CSS 3中对HTML、XML（包括XHTML）进行样式处理所需的与用户界面相关的属性及属性值。该规范包含并扩展了在CSS 2的属性及属性值规范中定义的与用户界面相关的特性。它使用各种属性及属性值在文档中对基本用户界面元素进行样式处理。",
+        "d": "2015-07-07",
+        "ll": 3,
+        "ch": "基本用户界面"
+    },
+    {
+        "t": "CSS Page Floats",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-css-page-floats-3-20150915/",
+        "dc": "2015年9月15日，W3C的CSS工作组（Cascading Style Sheets Working Group）发布了CSS页面浮动（CSS Page Floats）的首份标准工作草案（First Public Working Draft）。该文档描述了移动至内容段顶端或底部的浮动特性。该特性传统上一直用于印刷出版，其图形及图片连同说明文字一起被移动至竖行与页面的顶端或底部。该草案描述了如何在页面、竖行、区域、元素之内实现这种浮动效果。",
+        "d": "2015-09-15",
+        "ll": 0,
+        "ch": "页面浮动"
+    },
+    {
+        "t": "CSS Basic User Interface Module Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-css-ui-4-20150922/",
+        "dc": "见 CSS Basic User Interface Module Level 3 (CSS3 UI)",
+        "d": "2015-09-22",
+        "ll": 4,
+        "ch": "基本用户界面"
+    },
+    {
+        "t": "CSS Text Module Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-css-text-4-20150922/",
+        "dc": "见 CSS Text Module Level 3",
+        "d": "2015-09-22",
+        "ll": 4,
+        "ch": "文本"
+    },
+    {
+        "t": "CSS Display Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-css-display-3-20151015/",
+        "dc": "该模块描述了CSS格式化box tree是如何从文档元素中生成的，同时还定义了可以控制该模块的与显示属性和其他box-suppress属性相关的CSS特性。",
+        "d": "2015-10-15",
+        "ll": 3,
+        "ch": "显示"
+    },
+    {
+        "t": "CSS Custom Properties for Cascading Variables Module Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-css-variables-1-20151203/",
+        "dc": "该文档定义了一种用户自定义变量机制，允许任何CSS属性引用变量的取值。",
+        "d": "2015-12-03",
+        "ll": 1,
+        "ch": "面向级联变量的自定义属性"
+    },
+    {
+        "t": "CSS Will Change Module Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-css-will-change-1-20151203/",
+        "dc": "浏览器在做CSS渲染时有一系列复杂的优化，这些优化可以让Web页面更快、更有效的加载，但使用这些优化都有一个启动开销，过大的启动开销会严重影响页面对用户响应。该文档定义了一个有趣的CSS新属性－－will-change，开发者可以通过这个属性提前通知用户代理（如浏览器）某个元素的内容未来将有何种变化。这样，用户代理就可以提前为优化渲染这些元素做好准备，如在动画真正开始前，提前进行一些准备工作。",
+        "d": "2015-12-03",
+        "ll": 1,
+        "ch": "will-change 属性"
+    },
+    {
+        "t": "WebVTT: The Web Video Text Tracks Format",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2015/WD-webvtt1-20151208/",
+        "dc": "该规范定义了一种Web视频文本的标准格式WebVTT。这一格式以SRT文件格式为基础，主要用于在HTML的<track>元素中引用的与Web视频相关的外部文本资源，包括视频的字幕（subtitles）、标签（captions），视频的章节信息及导航，及其他文本化的视频描述（如视频中叠加的文本信息等，详见MAUR）。这一格式也可以用于其他具有时间对齐特性的元数据场景（如音乐及视频内容等）。",
+        "d": "2015-12-08",
+        "ll": 0,
+        "ch": "Web 视频文本轨道格式"
+    },
+    {
+        "t": "CSS Writing Modes Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2015/CR-css-writing-modes-3-20151215/",
+        "dc": "2015年12月15日，W3C的CSS工作组发布CSS书写模式（CSS Writing Modes Level 3）的候选推荐标准，征集参考实现。CSS书写模式 Level 3定义了CSS如何支持各种不同的国际化语言的书写模式，例如拉丁语系及Indic语系采用从左到右的书写模式，希尔伯特语（Hebrew）或阿拉伯语（Arabic）采用从右到左的书写模式，一些混合了拉丁语和阿拉伯语的文字可能采用双向书写（bidirectional），而一些东亚文字则需要竖排（从上到下）的书写模式。",
+        "d": "2015-12-15",
+        "ll": 3,
+        "ch": "书写模式"
+    },
+    {
+        "t": "CSS Fragmentation Module Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2016/CR-css-break-3-20160114/",
+        "dc": "2016年1月14日，W3C的CSS工作组（Cascading Style Sheets Working Group）发布CSS片段模块（CSS Fragmentation Module Level 3）的候选推荐标准并向公众征集参考实现。该模块描述了如何将一个内容流切分到不同的页面（pages)、竖行（columns）或区域（regions）的片段模型。它基于CSS的页面模型（Page Model）模块，定义了在盒间、盒内、行间、页间进行断行的属性和规则；给出了支持断行的盒模型（Box Model for Breaking），实现在长短可变的片段（Varying-size Fragmentainers）中进行断行（breaking），以及对跨页断行的边界和背景样式（Fragmented Borders and Backgrounds）等的支持。",
+        "d": "2016-01-14",
+        "ll": 3,
+        "ch": "片段"
+    },
+    {
+        "t": "CSS Cascading and Inheritance Level 4",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2016/CR-css-cascade-4-20160114/",
+        "dc": "2016年1月15日，W3C的CSS工作组（Cascading Style Sheets Working Group）发布CSS级联和继承（CSS Cascading and Inheritance Level 4）候选推荐标准并向公众征集参考实现。该CSS模块描述了如何设置样式展现规则以及如何为所有元素的全部属性赋值。通过级联和继承的方式，属性值可以在所有元素的全部属性中传播。",
+        "d": "2016-01-14",
+        "ll": 4,
+        "ch": "级联与继承"
+    },
+    {
+        "t": "CSS Round Display Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-round-display-1-20160301/",
+        "dc": "描述了帮助开发人员创建适用于圆形屏幕的 CSS 特性。",
+        "d": "2016-03-01",
+        "ll": 1,
+        "ch": "圆形显示"
+    },
+    {
+        "t": "CSS Object Model (CSSOM)",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-cssom-1-20160317/",
+        "dc": "CSSOM定义了用于媒体查询（Media Queries）、选择器（Selectors），以及CSS本身等的API（包括通用的解析和序列化规则）。",
+        "d": "2016-03-17",
+        "ll": 0,
+        "ch": "CSS 对象模型"
+    },
+    {
+        "t": "CSSOM View Module",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-cssom-view-1-20160317/",
+        "dc": "该标准引入了一系列的API，允许开发者以图形化界面的方式检查和处理文档。该规范还包括获取元素盒式布局（element layout boxes）的位置，通过脚本得到视图接口（viewport）的宽度，并支持元素滚动。",
+        "d": "2016-03-17",
+        "ll": 0,
+        "ch": "对象模型视图"
+    },
+    {
+        "t": "CSS Device Adaptation Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-device-adapt-1-20160329/",
+        "dc": "定义了一套用来定义特定布局所依赖的屏幕大小的指令，而这又与底层的设备相关。",
+        "d": "2016-03-29",
+        "ll": 1,
+        "ch": "设备适配"
+    },
+    {
+        "t": "CSS Intrinsic & Extrinsic Sizing Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-sizing-3-20160512/",
+        "dc": "该模块为 width 和 height 属性定义了一些关键词以允许设计者指定元素大小为尽可能小、尽可能大或相对其容器限制尽可能大等设置。",
+        "d": "2016-05-12",
+        "ll": 3,
+        "ch": "内在与外在尺寸"
+    },
+    {
+        "t": "CSS Positioned Layout Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-position-3-20160517/",
+        "dc": "该模块包含了CSS level 3与定位（positioning）有关的特性及相关元素。它扩展了CSS level 2基础上，扩展了基于CSS Region定位元素的能力，以及为元素指定不同的容器块的能力。其他类型的布局如表格布局、流式盒（floating boxes）、旁注注释（ruby annotation）、网格布局（grid layout）、列式布局（columns）及其他关于内容流（flow）的基本处理，以及每一行中文字的布局将通过CSS的其他模块描述。",
+        "d": "2016-05-17",
+        "ll": 3,
+        "ch": "定位布局"
+    },
+    {
+        "t": "CSS Grid Layout Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-grid-1-20160519/",
+        "dc": "这个CSS模块定义了一个二维网格布局系统，以优化用户界面设计。在网格布局模块中，可以将网格容器（grid container）的子节点指定到任意预定义布局网格的单元格中，这些布局网格可以是灵活的也可以是固定的。",
+        "d": "2016-05-19",
+        "ll": 1,
+        "ch": "网格布局"
+    },
+    {
+        "t": "CSS Cascading and Inheritance Level 3",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2016/CR-css-cascade-3-20160519/",
+        "dc": "见 CSS Cascading and Inheritance Level 4",
+        "d": "2016-05-19",
+        "ll": 3,
+        "ch": "级联与继承"
+    },
+    {
+        "t": "CSS Inline Layout Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-inline-3-20160524/",
+        "dc": "CSS的格式模型（formatting model）允许容器内的一组元素及其内部文本流按行现实（wrapped into lines）。在一行中的元素及文本的格式（如行的书写方向及在行中的位置、断行规则等）可以由CSS文本模块（CSS Text Module Level 3）表达。本模块描述了元素和文本在行中的位置。这个位置也通常和行的基线（baseline）相关。该模块也描述了与首行（first line）及首字母大写（drop caps）相关的格式特性。",
+        "d": "2016-05-24",
+        "ll": 3,
+        "ch": "行内布局"
+    },
+    {
+        "t": "Timed Text Markup Language 2 (TTML2)",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-ttml2-20160524/",
+        "dc": "该文档描述了两个基于时序文本标记语言（TTML, Timed Text Markup Language 1）的规范集：一个是纯文本（text-only）的描述规范，另一个是纯图片（image-only）的描述规范。这两个规范用于在全球范围内描述互联网媒体的字幕（subtitle and caption），简化互操作性，并保持与已有字幕文件格式的一致性和兼容性。该文本规范是面向面向美国封闭标签的TTML规范（TTML Simple Delivery Profile for Closed Captions (US)）的超集。W3C在2014年9月发布了该规范的工作草案。",
+        "d": "2016-05-24",
+        "ll": 2,
+        "ch": "时序文本标记语言"
+    },
+    {
+        "t": "CSS Flexible Box Layout Module Level 1",
+        "c": "cr",
+        "cv": 3,
+        "l": "http://www.w3.org/TR/2016/CR-css-flexbox-1-20160526/",
+        "dc": "该规范为描述了一个面向用户接口设计的CSS盒式模型（box model）。在弹性布局（flex layout）模型中，一个弹性容器（flex container）的子容器可以在任何方向布局，并可以灵活改变其尺寸，如增加大小填充空余的空间，或自动缩小以避免溢出父容器的区域。也很容易实现子元素的横向对齐和纵向对齐。嵌套的盒可以实现类似二维表的布局。",
+        "d": "2016-05-26",
+        "ll": 1,
+        "ch": "伸缩盒布局"
+    },
+    {
+        "t": "CSS Overflow Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-overflow-3-20160531/",
+        "dc": "在交互式媒体中，overflow定义了内容超出元素显示区域的处理方式。在CSS Level 2中引入了overflow属性，如果将overflow定义为scrol，当内容超出显示区域时，浏览器会自动添加横向或纵向的滚动条，滚动显示内容。但滚动不总是好的显示方式。Level 3定义了一种多页（pagination）方式，显示超过范围的内容。同时还支持多个区域的连续显示(fragments)。",
+        "d": "2016-05-31",
+        "ll": 3,
+        "ch": "溢出"
+    },
+    {
+        "t": "CSS Generated Content Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-content-3-20160602/",
+        "dc": "该模块描述了如何在文档中插入内容。",
+        "d": "2016-06-02",
+        "ll": 3,
+        "ch": "生成内容"
+    },
+    {
+        "t": "Worklets Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-worklets-1-20160607/",
+        "dc": "Worklets和Web Worker十分相似，它定义了一个标准API，允许在CSS渲染管道（绘制流水线）阶段（rendering pipeline stage），定义一个可以在主JavaScript执行环境之外运行的脚本。",
+        "d": "2016-06-07",
+        "ll": 1,
+        "ch": "工作脚本"
+    },
+    {
+        "t": "CSS Pseudo-Elements Module Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-pseudo-4-20160607/",
+        "dc": "定义了伪元素（pseudo-elements），它是对CSS渲染树中的一个局部子树所对应的可选择的元素的抽象。",
+        "d": "2016-06-07",
+        "ll": 4,
+        "ch": "伪元素"
+    },
+    {
+        "t": "CSS Typed OM Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-typed-om-1-20160607/",
+        "dc": "将CSS对象模型（CSSOM）的字符串值转换为有类型的JavaScript对象表达（或者反之）可能造成较大的性能开销。本规范提供了一种标准方法，将CSS值按照JavaScript对象的方式表达，减少对性能的影响。",
+        "d": "2016-06-07",
+        "ll": 1,
+        "ch": "类型对象模型"
+    },
+    {
+        "t": "CSS Properties and Values API Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-properties-values-api-1-20160607/",
+        "dc": "该CSS模块定义了一个标准API，允许注册新的CSS属性。通过这个API注册的新属性可以通过特定的解析语法（parse syntax）来定义类型、继承性行为（inheritance behavior）以及属性的初始值。",
+        "d": "2016-06-07",
+        "ll": 1,
+        "ch": "属性和值应用程序接口"
+    },
+    {
+        "t": "CSS Painting API Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-paint-api-1-20160607/",
+        "dc": "CSS的绘制阶段（paint stage）的主要任务是绘制背景、内容，以及基于盒（box）的几何属性（通常在布局/layout阶段通过计算获得）及所计算的样式属性完成绘制。该规范定义了一个标准API，允许开发者在几何属性或样式属性动态改变时的同时，对盒的部分区域进行绘制。",
+        "d": "2016-06-07",
+        "ll": 1,
+        "ch": "绘制应用程序接口"
+    },
+    {
+        "t": "CSS Box Alignment Module Level 3",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-align-3-20160614/",
+        "dc": "该模块主要描述在各种不同的CSS盒式布局模型（如块布局/block layout，表布局/table layout，弹性布局/flex layout及网格布局/grid layout）下，容器内多个盒（box）位置对齐相关的CSS特性。",
+        "d": "2016-06-14",
+        "ll": 3,
+        "ch": "盒式对齐"
+    },
+    {
+        "t": "Custom Counter Styles",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-predefined-counter-styles-20160622/",
+        "dc": "它为内容作者提供了覆盖世界上近30种语言的超过120个种预定义的计数器（编码）样式模板。",
+        "d": "2016-06-22",
+        "ll": 0,
+        "ch": "自定义计数器样式"
+    },
+    {
+        "t": "CSS Scroll Snap Module Level 1",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-scroll-snap-1-20160623/",
+        "dc": "在浏览可以连续上下滚动或左右滚动的连续页面或一组图片时，通过触摸屏的触摸滑动或鼠标滚轴的滚动操作可以获得较好用户体验。但无论是触屏滑动还是鼠标滚轴都不容易精确的控制操作所产生的滚动量输入（imprecise nature of scrolling inputs），对于Web开发者来说，需要更好的控制滚动体验，并创建更丰富的页面内容呈现效果。 该模块提供了一组新特性，通过定义滚动范围的界限点（snap points）用来控制触屏滑动（panning）及滚动行为。",
+        "d": "2016-06-23",
+        "ll": 1,
+        "ch": "滚动范围的界限点"
+    },
+    {
+        "t": "CSS Color Module Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-css-color-4-20160705/",
+        "dc": "见 CSS Color Module Level 3",
+        "d": "2016-07-05",
+        "ll": 4,
+        "ch": "颜色"
+    },
+    {
+        "t": "Media Queries Level 4",
+        "c": "wd",
+        "cv": 1,
+        "l": "http://www.w3.org/TR/2016/WD-mediaqueries-4-20160706/",
+        "dc": "见 Media Queries",
+        "d": "2016-07-06",
+        "ll": 0,
+        "ch": "媒体查询"
+    }
+]
